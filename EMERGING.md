@@ -4,8 +4,8 @@
   <h1>Emerging OSINT Projects</h1>
   <p>A watchlist of early-stage open-source OSINT tools and supporting technologies.</p>
   <p>
-    <a href="#projects"><img alt="Emerging projects: 106" src="https://img.shields.io/badge/emerging_projects-106-bf8700?style=flat-square"></a>
-    <img alt="Last update: 2026-09-07" src="https://img.shields.io/badge/last_update-2026--09--07-1f883d?style=flat-square">
+    <a href="#projects"><img alt="Emerging projects: 109" src="https://img.shields.io/badge/emerging_projects-109-bf8700?style=flat-square"></a>
+    <img alt="Last update: 2026-09-08" src="https://img.shields.io/badge/last_update-2026--09--08-1f883d?style=flat-square">
   </p>
   <p><a href="README.md">Awesome OSINT Repositories</a> · <strong><a href="EMERGING.md">Emerging Projects</a></strong> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="TIMELINE.md">Catalogue Timeline</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -20,16 +20,16 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 
 <a id="projects"></a>
 
-## Projects <sup>106 projects</sup>
+## Projects <sup>109 projects</sup>
 
 | Project | Target Input | Categories | Description | Created | Last Update | Stars |
 |:---|:---|:---:|:---|:---:|:---:|---:|
 | [World Monitor](https://github.com/koala73/worldmonitor) | Location | Geolocation | Unifies geopolitical news, infrastructure, and event monitoring in one dashboard. | 2026-01-08 | 2026-09-07 | ⭐ 85,739 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [OpenHuman](https://github.com/tinyhumansai/openhuman) | URL; Document | Web | Builds local context and runs deep research across personal data and the web with browser tooling and durable agent workflows. | 2026-02-18 | 2026-09-07 | ⭐ 39,489 |
+| [OpenHuman](https://github.com/tinyhumansai/openhuman) | URL; Document | Web | Builds local context and runs deep research across personal data and the web with browser tooling and durable agent workflows. | 2026-02-18 | 2026-09-07 | ⭐ 39,489 |
 | <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [God's Eye View](https://github.com/bilawalsidhu/gods-eye-view) | Coordinates; Location | Geolocation | Overlays live public satellite and spatial intelligence feeds on an interactive browser globe. | 2026-06-22 | 2026-09-05 | ⭐ 18,675 |
 | [Crucix](https://github.com/calesthio/Crucix) | Domain; IP Address; URL; File Hash | Threat Intelligence | Watches multiple public intelligence sources and reports relevant changes. | 2026-03-14 | 2026-05-20 | ⭐ 11,635 |
 | [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Location | Geolocation | Tracks aircraft, satellites, seismic events, and other global activity. | 2026-03-05 | 2026-08-24 | ⭐ 11,068 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | URL; Document | Web | Runs local-first deep research across the web and indexed documents with citations and scheduled monitoring. | 2026-02-15 | 2026-09-07 | ⭐ 9,387 |
+| [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | URL; Document | Web | Runs local-first deep research across the web and indexed documents with citations and scheduled monitoring. | 2026-02-15 | 2026-09-07 | ⭐ 9,387 |
 | [osiris](https://github.com/simplifaisoul/osiris) | - | Investigation | Aggregates live aviation, maritime, camera, seismic, wildfire, news, weather, space, cyber, sanctions, and public Telegram data in a real-time situational-awareness dashboard. | 2026-05-12 | 2026-09-06 | ⭐ 8,689 |
 | [Flowsint](https://github.com/reconurge/flowsint) | Name; Organization Name | Investigation | Explores investigation entities and enrichments in a local graph-based workspace. | 2025-01-31 | 2026-09-06 | ⭐ 7,803 |
 | [Robin](https://github.com/apurvsinghgautam/robin) | Onion Service | Dark Web | Refines queries, filters dark-web search results, and saves assisted investigation summaries. | 2025-04-08 | 2026-08-25 | ⭐ 7,011 |
@@ -51,7 +51,7 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 | [urlfinder](https://github.com/projectdiscovery/urlfinder) | URL | Web | Passively collects URLs associated with a target. | 2024-04-30 | 2026-08-31 | ⭐ 908 |
 | [GHOST OSINT CRM](https://github.com/elm1nst3r/GHOST-osint-crm) | Name | Identity | Manages people, relationships, evidence, and investigation notes locally. | 2025-05-16 | 2026-09-04 | ⭐ 882 |
 | [Horus](https://github.com/6abd/horus) | Image | Media | Performs local image and digital evidence analysis. | 2024-01-21 | 2026-07-29 | ⭐ 881 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [The Big Brother](https://github.com/chadi0x/TheBigBrother) | - | Investigation | Provides a multi-module public-source investigation console for identity, infrastructure, media, geolocation, and cryptocurrency workflows. | 2025-12-08 | 2026-08-13 | ⭐ 758 |
+| [The Big Brother](https://github.com/chadi0x/TheBigBrother) | - | Investigation | Provides a multi-module public-source investigation console for identity, infrastructure, media, geolocation, and cryptocurrency workflows. | 2025-12-08 | 2026-08-13 | ⭐ 758 |
 | [Emora](https://github.com/idefasoft/Emora-Project) | Username | Identity | Provides a graphical interface for cross-platform username searches. | 2024-03-11 | 2026-02-07 | ⭐ 715 |
 | [Manuscript](https://github.com/chainbase-labs/manuscript-core) | Crypto Address | Cryptocurrency | Streams on-chain and off-chain data into systems prepared for analysis. | 2024-09-24 | 2026-08-09 | ⭐ 692 |
 | [Cyberbro](https://github.com/stanfrbd/cyberbro) | Domain; IP Address; URL | Infrastructure | Extracts observables from unstructured input and checks them across CTI services. | 2024-10-31 | 2026-08-10 | ⭐ 687 |
@@ -83,26 +83,29 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 | [netscout](https://github.com/caio-ishikawa/netscout) | Domain; URL | Infrastructure | Crawls from a seed URL to find domains, paths, endpoints, and files. | 2024-03-28 | 2024-04-05 | ⭐ 182 |
 | [WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) | Domain; URL | Web | Collects and presents public DNS, TLS, headers, hosting, network, technology, security, and performance data for a website. | 2025-12-14 | 2026-09-07 | ⭐ 167 |
 | [ExifTool Web](https://github.com/lucasgelfond/exiftool-web) | Image | Media | Runs ExifTool metadata inspection in a browser through WebAssembly. | 2025-02-22 | 2026-01-10 | ⭐ 156 |
+| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [abx-dl](https://github.com/ArchiveBox/abx-dl) | URL | Web | Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI. | 2024-10-21 | 2026-09-07 | ⭐ 142 |
 | [Data Commons Agent Toolkit](https://github.com/datacommonsorg/agent-toolkit) | Dataset | Documents & Records | Connects agents and MCP clients to the public Data Commons knowledge graph. | 2025-06-26 | 2026-09-03 | ⭐ 139 |
 | [Telespot](https://github.com/thumpersecure/Telespot) | Phone Number | Identity | Searches phone-number variations across public engines and correlates identity clues. | 2025-12-28 | 2026-09-01 | ⭐ 137 |
 | [IntelHub](https://github.com/tomsec8/IntelHub) | URL; Image | Media | Adds local browser tools for metadata, archives, dorking, and OSINT lookups. | 2025-05-15 | 2026-07-09 | ⭐ 121 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [TokIntel](https://github.com/HackUnderway/TokIntel) | Username | Social Media | Collects TikTok profile metadata, metrics, and avatars for supplied usernames and writes structured local reports through the Apify scraper API. | 2026-03-29 | 2026-07-26 | ⭐ 107 |
+| [TokIntel](https://github.com/HackUnderway/TokIntel) | Username | Social Media | Collects TikTok profile metadata, metrics, and avatars for supplied usernames and writes structured local reports through the Apify scraper API. | 2026-03-29 | 2026-07-26 | ⭐ 107 |
 | [TikSpyder](https://github.com/estebanpdl/tik-spyder) | Username; Video | Social Media | Collects TikTok search, user, tag, and media data through SerpAPI and Apify. | 2024-07-16 | 2026-02-27 | ⭐ 102 |
 | [OWASP Social OSINT Agent](https://github.com/bm-github/owasp-social-osint-agent) | Username | Social Media | Collects public social activity and uses configurable language models to produce analytical reports. | 2025-10-07 | 2026-04-25 | ⭐ 101 |
 | [Telespotter](https://github.com/thumpersecure/Telespotter) | Phone Number | Identity | Searches phone numbers across public engines and people-search sources in a Rust CLI. | 2026-01-02 | 2026-09-01 | ⭐ 78 |
 | [IntellyWeave](https://github.com/vericle/intellyweave) | URL; Location; Document | Geolocation | Combines archive discovery, entity extraction, maps, graphs, and document analysis. | 2025-12-12 | 2026-01-12 | ⭐ 75 |
+| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [kronikier](https://github.com/soxoj/kronikier) | Domain; URL | Web | Extracts historical email addresses and phone numbers from Wayback Machine snapshots, with first and last sightings. | 2026-05-29 | 2026-06-13 | ⭐ 61 |
+| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [Dark Light Viewer](https://github.com/bendobrown/Dark-Light-Viewer) | Location; Coordinates | Geolocation | Compares VIIRS nighttime light imagery across time in Google Earth Engine and exports detected changes as GeoJSON. | 2026-03-03 | 2026-03-03 | ⭐ 56 |
 | [Huntkit](https://github.com/assafkip/huntkit) | Name; Organization Name; Event Data | Investigation | Organizes cases, targets, findings, timelines, evidence hashes, and chain-of-custody records. | 2026-04-15 | 2026-09-05 | ⭐ 51 |
 | [LinkedIn OSINT Toolkit](https://github.com/michaelelizarov/linkedin-osint-toolkit) | Name; Organization Name | Social Media | Discovers companies and employees, classifies roles, and builds organization views. | 2026-02-16 | 2026-02-16 | ⭐ 50 |
 | [OSINT-NEXUS](https://github.com/Muhib-Mehdi/OSINT-NEXUS) | Name; Organization Name | Investigation | Combines multi-target collection, entity correlation, graphs, and reporting in a desktop application. | 2025-12-30 | 2026-08-15 | ⭐ 43 |
 | [Wiwok](https://github.com/Kirozaku/Wiwok) | Username; Email; Phone Number | Identity | Investigates usernames, email addresses, phone numbers, and names without mandatory API keys. | 2026-04-26 | 2026-05-22 | ⭐ 42 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [CommiPiste](https://github.com/soxoj/CommiPiste) | URL | Infrastructure | Fingerprints publicly served static files to identify deployed open-source software versions and map verified CVE exposure. | 2026-06-27 | 2026-07-13 | ⭐ 40 |
+| [CommiPiste](https://github.com/soxoj/CommiPiste) | URL | Infrastructure | Fingerprints publicly served static files to identify deployed open-source software versions and map verified CVE exposure. | 2026-06-27 | 2026-07-13 | ⭐ 40 |
 | [AtDork](https://github.com/amnottdevv/AtDork) | URL | Web | Automates multi-engine search queries with rate and failure controls. | 2026-06-07 | 2026-09-07 | ⭐ 39 |
 | [x-scraper](https://github.com/proxidize/x-scraper) | Username | Social Media | Collects X timelines and search results through Playwright with resume and proxy controls. | 2025-10-30 | 2026-06-22 | ⭐ 35 |
 | [Locus](https://github.com/alpkeskin/locus) | Location; Coordinates; Image | Geolocation | Estimates GPS coordinates from street-level photographs. | 2025-11-22 | 2025-12-01 | ⭐ 33 |
 | [OSINT Skills](https://github.com/UseOSINT/Skills) | - | Investigation | Provides 28 source-grounded skills for agent-led OSINT workflows, evidence grading, and investigative reporting. | 2026-08-02 | 2026-08-03 | ⭐ 32 |
 | [Wayback Archive](https://github.com/GeiserX/Wayback-Archive) | URL | Web | Downloads complete archived websites with their referenced assets. | 2025-12-11 | 2026-08-24 | ⭐ 31 |
 | [European Parliament MCP](https://github.com/Hack23/European-Parliament-MCP-Server) | Name; Document | Documents & Records | Provides agent access to European Parliament members, committees, votes, documents, and questions. | 2026-02-16 | 2026-09-07 | ⭐ 28 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [OpenTrace](https://github.com/Gacut/OpenTrace) | Name; URL; Document; Image | Investigation | Offline desktop workspace for structuring OSINT cases with evidence, relationships, hypotheses, provenance details, and portable exports. | 2026-07-23 | 2026-08-06 | ⭐ 21 |
+| [OpenTrace](https://github.com/Gacut/OpenTrace) | Name; URL; Document; Image | Investigation | Offline desktop workspace for structuring OSINT cases with evidence, relationships, hypotheses, provenance details, and portable exports. | 2026-07-23 | 2026-08-06 | ⭐ 21 |
 | [Sicry](https://github.com/JacobJandon/Sicry) | Onion Service | Dark Web | Checks Tor health, rotates identity, searches onion engines, fetches known services, and exposes optional agent-assisted analysis. | 2026-03-14 | 2026-05-28 | ⭐ 19 |
 | [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | Username; Video | Social Media | Exposes YouTube videos, channels, search results, comments, and transcripts through MCP. | 2025-03-31 | 2026-07-17 | ⭐ 19 |
 | [NEXUS](https://github.com/Kit4Some/NEXUsint) | Domain; IP Address; URL; Location; File Hash | Geolocation | Combines live multi-INT feeds, knowledge graphs, maps, and assisted analysis in a desktop platform. | 2026-03-20 | 2026-03-30 | ⭐ 17 |
@@ -112,12 +115,12 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 | <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [Claudii Exploratores](https://github.com/SOsintOps/claudii-exploratores) | - | Investigation | Exposes a classified OSINT tool index, query builders, and identifier validators as a skill and MCP server. | 2026-07-10 | 2026-07-10 | ⭐ 13 |
 | [LeakRecon](https://github.com/egnake/LeakRecon) | Onion Service | Dark Web | Runs Tor-routed leak reconnaissance with local history, change tracking, and report export. | 2026-05-18 | 2026-06-04 | ⭐ 11 |
 | <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [Claude OSINT Deploy](https://github.com/soxoj/claude-osint-deploy) | - | Investigation | Installs, runs, and verifies OSINT tools from public repositories inside an agent session. | 2026-08-25 | 2026-08-28 | ⭐ 11 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [Pulpit](https://github.com/giovabal/pulpit) | Username; Keyword | Social Media | Collects selected public Telegram channels and maps forwarding and linking relationships for influence and political communication analysis. | 2024-10-30 | 2026-09-07 | ⭐ 9 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [AH-OSINT](https://github.com/ArunHax/AH-OSINT) | Domain; IP Address; URL | Infrastructure | Modular passive framework for domain, IP, DNS, and website intelligence with structured JSON reporting. | 2026-07-28 | 2026-07-28 | ⭐ 9 |
+| [Pulpit](https://github.com/giovabal/pulpit) | Username; Keyword | Social Media | Collects selected public Telegram channels and maps forwarding and linking relationships for influence and political communication analysis. | 2024-10-30 | 2026-09-07 | ⭐ 9 |
+| [AH-OSINT](https://github.com/ArunHax/AH-OSINT) | Domain; IP Address; URL | Infrastructure | Modular passive framework for domain, IP, DNS, and website intelligence with structured JSON reporting. | 2026-07-28 | 2026-07-28 | ⭐ 9 |
 | <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [Clearfront](https://github.com/scottmartinanderson/clearfront) | Name; Username; Email | Identity | Agent that maps a digital footprint across public data sources and reports the collected identifiers. | 2026-07-08 | 2026-08-19 | ⭐ 9 |
 | [Discord Inspector](https://github.com/Euronymou5/Discord-Inspector) | Username | Social Media | Retrieves public user, server, and application metadata from Discord identifiers. | 2024-12-03 | 2024-12-05 | ⭐ 6 |
 | [Telegram MCP TDLib](https://github.com/tolboy/telegram-mcp-tdlib) | Username | Social Media | Exposes Telegram searches, chats, messages, and public content to MCP clients through TDLib. | 2026-07-04 | 2026-08-22 | ⭐ 6 |
-| <img src=".github/assets/new-dot.svg" width="6" height="6" alt=""> [Vidit](https://github.com/vidithq/vidit) | Coordinates; Location; Image; Video; URL | Geolocation | Self-hosted platform for archiving, reviewing, and mapping geolocated armed-conflict events with sources, media, and analyst verification. | 2026-06-06 | 2026-08-25 | ⭐ 4 |
+| [Vidit](https://github.com/vidithq/vidit) | Coordinates; Location; Image; Video; URL | Geolocation | Self-hosted platform for archiving, reviewing, and mapping geolocated armed-conflict events with sources, media, and analyst verification. | 2026-06-06 | 2026-08-25 | ⭐ 4 |
 | [Wash Trade Scanner](https://github.com/Yog-Sotho/Wash-Trade-Scanner) | Crypto Address | Cryptocurrency | Audits blockchain activity for wash trading and artificial volume patterns. | 2026-04-16 | 2026-08-08 | ⭐ 3 |
 | [Internet Archive MCP](https://github.com/cyanheads/internet-archive-mcp-server) | URL | Web | Provides agent access to Internet Archive search, metadata, files, and preserved resources. | 2026-06-05 | 2026-08-21 | ⭐ 3 |
 | [PolyShadow](https://github.com/Ha1o/PolyShadow) | Crypto Address | Cryptocurrency | Monitors new Polymarket wallets for unusual high-value positions. | 2026-01-10 | 2026-02-23 | ⭐ 2 |
@@ -133,4 +136,4 @@ Membership in this view is stored in `Source Files`. Every project retains one o
 
 <p align="right"><a href="#top">Back to top ↑</a></p>
 
-[Complete repository database (CSV)](osint-repositories.csv) <sup>487 unique repositories</sup>
+[Complete repository database (CSV)](osint-repositories.csv) <sup>493 unique repositories</sup>

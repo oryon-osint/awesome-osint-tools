@@ -4,9 +4,9 @@
   <h1>Awesome OSINT Repositories Timeline</h1>
   <p>A visual chronology of tools added to the catalogue, newest first.</p>
   <p>
-    <img alt="Dated additions: 194" src="https://img.shields.io/badge/dated_additions-194-0969da?style=flat-square">
-    <img alt="Catalogue projects: 487" src="https://img.shields.io/badge/catalogue_projects-487-8250df?style=flat-square">
-    <img alt="Last update: 2026-09-07" src="https://img.shields.io/badge/last_update-2026--09--07-1f883d?style=flat-square">
+    <img alt="Dated additions: 200" src="https://img.shields.io/badge/dated_additions-200-0969da?style=flat-square">
+    <img alt="Catalogue projects: 493" src="https://img.shields.io/badge/catalogue_projects-493-8250df?style=flat-square">
+    <img alt="Last update: 2026-09-08" src="https://img.shields.io/badge/last_update-2026--09--08-1f883d?style=flat-square">
   </p>
   <p><strong><a href="TIMELINE.md">Catalogue Timeline</a></strong> · <a href="README.md">Awesome OSINT Repositories</a> · <a href="EMERGING.md">Emerging Projects</a> · <a href="AGENTIC.md">Agentic AI OSINT</a> · <a href="osint-repositories.csv">Repository Database CSV</a></p>
 </div>
@@ -24,6 +24,66 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td align="right" valign="middle"><strong>2026-09-08</strong><br><sub>6 projects</sub></td>
+      <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
+      <td valign="middle">
+        <strong><a href="https://github.com/ArchiveBox/abx-dl">abx-dl</a></strong><br>
+        Downloads web pages, media, screenshots, and extracted text through the ArchiveBox plugin ecosystem using a standalone CLI.<br>
+        <sub>Target Input: URL · Category: Web</sub>
+      </td>
+      <td align="right" valign="top"><strong>⭐&nbsp;142</strong></td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle"></td>
+      <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
+      <td valign="middle">
+        <strong><a href="https://github.com/bendobrown/Dark-Light-Viewer">Dark Light Viewer</a></strong><br>
+        Compares VIIRS nighttime light imagery across time in Google Earth Engine and exports detected changes as GeoJSON.<br>
+        <sub>Target Input: Location; Coordinates · Category: Geolocation</sub>
+      </td>
+      <td align="right" valign="top"><strong>⭐&nbsp;56</strong></td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle"></td>
+      <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
+      <td valign="middle">
+        <strong><a href="https://github.com/soxoj/gitcolombo">Gitcolombo</a></strong><br>
+        Extracts names and emails from Git history and GitHub metadata to correlate contributor identities.<br>
+        <sub>Target Input: Repository URL; Username · Category: Code Repositories</sub>
+      </td>
+      <td align="right" valign="top"><strong>⭐&nbsp;94</strong></td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle"></td>
+      <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
+      <td valign="middle">
+        <strong><a href="https://github.com/soxoj/kronikier">kronikier</a></strong><br>
+        Extracts historical email addresses and phone numbers from Wayback Machine snapshots, with first and last sightings.<br>
+        <sub>Target Input: Domain; URL · Category: Web</sub>
+      </td>
+      <td align="right" valign="top"><strong>⭐&nbsp;61</strong></td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle"></td>
+      <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
+      <td valign="middle">
+        <strong><a href="https://github.com/MISP/misp-modules">MISP Modules</a></strong><br>
+        Enriches threat indicators and imports or exports intelligence through standalone Python modules and a REST API.<br>
+        <sub>Target Input: Domain; IP Address; URL; File Hash · Category: Threat Intelligence</sub>
+      </td>
+      <td align="right" valign="top"><strong>⭐&nbsp;376</strong></td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle"></td>
+      <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
+      <td valign="middle">
+        <strong><a href="https://github.com/ARPSyndicate/puncia">Puncia</a></strong><br>
+        Queries Subdomain Center and Exploit Observer for subdomain discovery, lookalike domains, and vulnerability intelligence.<br>
+        <sub>Target Input: Domain; Organization Name; CVE ID · Category: Infrastructure</sub>
+      </td>
+      <td align="right" valign="top"><strong>⭐&nbsp;663</strong></td>
+    </tr>
     <tr>
       <td align="right" valign="middle"><strong>2026-08-30</strong><br><sub>31 projects</sub></td>
       <td align="center" valign="middle">│<br><img src=".github/assets/new-dot.svg" width="7" height="7" alt=""><br>│</td>
